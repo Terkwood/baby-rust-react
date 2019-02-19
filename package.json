@@ -1,18 +1,23 @@
 {
   "name": "baby-rust-react",
   "version": "0.1.0",
+  "homepage": "https://terkwood.github.io/baby-rust-react/",
   "private": true,
   "dependencies": {
     "eslint-plugin-prettier": "^3.0.1",
+    "history": "^4.7.2",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
+    "react-router": "^4.3.1",
     "react-scripts-rust": "2.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -24,6 +29,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "eslint-plugin-react-hooks": "^1.0.2"
+    "eslint-plugin-react-hooks": "^1.0.2",
+    "gh-pages": "^2.0.1"
   }
 }
