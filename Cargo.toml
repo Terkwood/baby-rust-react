@@ -1,5 +1,5 @@
 [package]
-name = "my-app"
+name = "baby-rust-react"
 version = "0.1.0"
 authors = ["Terkwood<metaterkhorn@gmail.com>"]
 edition = "2018"
