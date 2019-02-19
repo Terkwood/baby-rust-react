@@ -20,14 +20,27 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FactorialText />
-        </a>
+        <FactorialText />
+        <div>
+          Rendered with React.js{' '}
+          <span role="img" aria-label="atom">
+            ⚛️
+          </span>
+          <br />
+          Computed lovingly with Rust{' '}
+          <span role="img" aria-label="crab">
+            🦀
+          </span>
+          <br />
+          <a
+            className="App-link"
+            href="https://github.com/Terkwood/baby-rust-react"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://github.com/Terkwood/baby-rust-react
+          </a>
+        </div>
       </header>
     </div>
   );
