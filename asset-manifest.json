@@ -1,7 +1,7 @@
 {
   "main.css": "/baby-rust-react/static/css/main.a2bc1829.chunk.css",
-  "main.js": "/baby-rust-react/static/js/main.6c4a5c38.chunk.js",
-  "main.js.map": "/baby-rust-react/static/js/main.6c4a5c38.chunk.js.map",
+  "main.js": "/baby-rust-react/static/js/main.7a09b15a.chunk.js",
+  "main.js.map": "/baby-rust-react/static/js/main.7a09b15a.chunk.js.map",
   "static/js/1.dd0baa8a.chunk.js": "/baby-rust-react/static/js/1.dd0baa8a.chunk.js",
   "static/js/1.dd0baa8a.chunk.js.map": "/baby-rust-react/static/js/1.dd0baa8a.chunk.js.map",
   "runtime~main.js": "/baby-rust-react/static/js/runtime~main.2b3aa09a.js",
@@ -10,6 +10,6 @@
   "static/media/logo.svg": "/baby-rust-react/static/media/logo.12221bd5.svg",
   "static/media/App.rs": "/baby-rust-react/static/media/App.806e6cd9.rs",
   "index.html": "/baby-rust-react/index.html",
-  "precache-manifest.7ad3a32fd8ba756a9afba558e5bea754.js": "/baby-rust-react/precache-manifest.7ad3a32fd8ba756a9afba558e5bea754.js",
+  "precache-manifest.73656abf760aed36cd3ca1370cd9393e.js": "/baby-rust-react/precache-manifest.73656abf760aed36cd3ca1370cd9393e.js",
   "service-worker.js": "/baby-rust-react/service-worker.js"
 }

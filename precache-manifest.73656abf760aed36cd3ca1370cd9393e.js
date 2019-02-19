@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/baby-rust-react/static/js/runtime~main.2b3aa09a.js"
   },
   {
-    "revision": "6c4a5c38d2989e3c3f16",
-    "url": "/baby-rust-react/static/js/main.6c4a5c38.chunk.js"
+    "revision": "7a09b15aba1bb3fb92c3",
+    "url": "/baby-rust-react/static/js/main.7a09b15a.chunk.js"
   },
   {
     "revision": "dd0baa8a571f608bc671",
     "url": "/baby-rust-react/static/js/1.dd0baa8a.chunk.js"
   },
   {
-    "revision": "6c4a5c38d2989e3c3f16",
+    "revision": "7a09b15aba1bb3fb92c3",
     "url": "/baby-rust-react/static/css/main.a2bc1829.chunk.css"
   },
   {
-    "revision": "c6ebce255e052c6622a466db1e29d627",
+    "revision": "a3c0af18f6c35dac8482047b950103a5",
     "url": "/baby-rust-react/index.html"
   }
 ];
