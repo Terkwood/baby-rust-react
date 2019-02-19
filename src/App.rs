@@ -7,3 +7,11 @@ pub extern "C" fn fact(mut n: u32) -> u32 {
     }
     result
 }
+
+#[cfg(test)]
+mod tests {
+    #[test]
+    fn it_works() {
+        assert_eq!(super::fact(6), 720);
+    }
+}
