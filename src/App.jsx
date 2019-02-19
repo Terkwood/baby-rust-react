@@ -1,11 +1,16 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { loadWasm } from './wasmLoader';
 
 const App = () => {
+  useEffect(() => {
+    document.title = 'rust with react';
+  });
+
   const [result, setResult] = useState(null);
   const x = 31;
+
   loadWasm(wasm => {
     const calculateFactorial = wasm.instance.exports.fact;
 
