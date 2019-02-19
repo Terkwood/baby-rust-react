@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/baby-rust-react/precache-manifest.e19e78558f2b41968e7224a75cad95f3.js"
+  "/baby-rust-react/precache-manifest.7ad3a32fd8ba756a9afba558e5bea754.js"
 );
 
 workbox.clientsClaim();
